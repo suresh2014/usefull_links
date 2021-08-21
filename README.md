@@ -18,4 +18,5 @@ I am beginner in CLI,Python and R
 
 
 
-[email me](suresh.unigoa@gmail.com)
+E-mail:[suresh.unigoa@gmail.com](suresh.unigoa@gmail.com)
+[google schloar](https://scholar.google.com/citations?hl=en&user=94DGIEUAAAAJ)
