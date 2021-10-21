@@ -1,6 +1,8 @@
 # About-me
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/suresh2014)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/suresh2014)            ![Name](https://img.shields.io/badge/suresh-mendem-brightgreen)
+
+<a href="https://github.com/suresh2014/About-me/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/suresh2014/About-me?logo=star"></a>
 
 ## Hello guys
 
