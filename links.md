@@ -5,4 +5,5 @@
 5. Python online to gui..[link](https://github.com/chriskiehl/Gooey)
 6. Phylo and map ..[link](http://blog.phytools.org/2022/04/combining-contmap-and-phylotomap-plots.html?m=1)
 7. Python HPC Modules ..[link](https://github.com/CGATOxford/python-hpc)
-8. 
+8. bioinfowork book links .. [link](https://github.com/MonashBioinformaticsPlatform/learning-resource-links)
+9. learning links ..[link](https://github.com/MonashBioinformaticsPlatform/learning-resource-links)
