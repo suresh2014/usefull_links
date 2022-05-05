@@ -7,3 +7,4 @@
 7. Python HPC Modules ..[link](https://github.com/CGATOxford/python-hpc)
 8. bioinfowork book links .. [link](https://github.com/MonashBioinformaticsPlatform/learning-resource-links)
 9. learning links ..[link](https://github.com/MonashBioinformaticsPlatform/learning-resource-links)
+10. eqtl ...[link](https://www.ebi.ac.uk/eqtl/Methods/)
