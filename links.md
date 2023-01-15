@@ -13,3 +13,4 @@
 13. create figure for publications using mindthegraph ..[link](https://mindthegraph.com/)
 14. usefull bioinformatic tools from vandepeer lab..[link](https://www.vandepeerlab.org/?q=software)
 15. phylogenetic analysis tutorials ..[link](https://github.com/mmatschiner/tutorials)
+16. awesome genome visualization tools...[link](https://github.com/cmdcolin/awesome-genome-visualization)
