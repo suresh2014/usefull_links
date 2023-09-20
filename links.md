@@ -14,3 +14,4 @@
 14. usefull bioinformatic tools from vandepeer lab..[link](https://www.vandepeerlab.org/?q=software)
 15. phylogenetic analysis tutorials ..[link](https://github.com/mmatschiner/tutorials)
 16. awesome genome visualization tools...[link](https://github.com/cmdcolin/awesome-genome-visualization)
+17. Electronic note books...[link1](https://labfolder.com/electronic-lab-notebook-eln-research-guide/) [link2](https://www.nature.com/articles/d41586-018-05895-3)
