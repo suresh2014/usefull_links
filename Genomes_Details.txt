@@ -1,3 +1,4 @@
+A total of 1171 bacterial strains deposited in various projects untill now ....
 #Genomes from Animals,clinical,food,enivronment and animal handlers 
 # PRJNA636233 Assembly Details(n=985)
 # Assembly	Level	WGS	Chrs	BioSample	Strain	Taxonomy
