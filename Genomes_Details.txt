@@ -987,7 +987,15 @@ GCA_035796895.1	Contig	JAMWUW000000000	undefined	SAMN29058020	Ngtc RS 3	Staphylo
 GCA_021189235.1	Contig	JAIBNI000000000	undefined	SAMN20525623	N24	Staphylococcus xylosus	
 GCA_021189335.1	Contig	JAIBNP000000000	undefined	SAMN20525616	N19	Staphylococcus xylosus	
 
-
+------------------------------------------------------
+# PRJNA858260 Assembly Details(n=6)
+# Assembly	Level	WGS	BioSample	Strain	Taxonomy
+GCA_024329745.1	Contig	JANDLY000000000	SAMN29681008	EFNEH6	Escherichia fergusonii	
+GCA_024331465.1	Contig	JANDMD000000000	SAMN29681003	EFNEH1	Escherichia fergusonii	
+GCA_024331405.1	Contig	JANDMB000000000	SAMN29681005	EFNEH3	Escherichia fergusonii	
+GCA_024331355.1	Contig	JANDLZ000000000	SAMN29681007	EFNEH5	Escherichia fergusonii	
+GCA_024331325.1	Contig	JANDMA000000000	SAMN29681006	EFNEH4	Escherichia fergusonii	
+GCA_024331305.1	Contig	JANDMC000000000	SAMN29681004	EFNEH2	Escherichia fergusonii
 
 -------------------------------------------------------
 #Pasteurella multocida
