@@ -1079,6 +1079,19 @@ GCA_024380185.1	Contig	JANFEW000000000	SAMN29794828	GOA_NEH114	Escherichia coli
 GCA_024380195.1	Contig	JANFEX000000000	SAMN29794829	GOA_NEH115	Escherichia coli	
 GCA_024380175.1	Contig	JANFEU000000000	SAMN29794826	GOA_NEH112	Escherichia coli	
 
+------------------------------------------------------
+#salmonella--T kumar dey- IlRI
+PRJNA640289     SAMN15313752    JABXHL000000000 Staphylococcus pseudoxylosus Bh32_TKDBRS
+
+# PRJNA767524 Assembly Details(n=7)
+# Assembly	Level	WGS	BioSample	Strain	Taxonomy
+GCA_020515475.1	Contig	JAJAGK000000000	SAMN21907642	TKBSJL6	Salmonella enterica	
+GCA_020404685.1	Contig	JAIZAV000000000	SAMN21907441	TKBSJL2	Salmonella enterica	
+GCA_020404655.1	Contig	JAIZAR000000000	SAMN21907682	TKBSJL7	Salmonella enterica	
+GCA_020404205.1	Contig	JAIZAT000000000	SAMN21907472	TKBSJL4	Salmonella enterica	
+GCA_020404175.1	Contig	JAIZAS000000000	SAMN21907558	TKBSJL5	Salmonella enterica	
+GCA_020404155.1	Contig	JAIZAU000000000	SAMN21907449	TKBSJL3	Salmonella enterica	
+GCA_020404145.1	Contig	JAIZAW000000000	SAMN21907210	TKBSJL1	Salmonella enterica
 -------------------------------------------------------
 #Pasteurella multocida  #BEL-3
 #Assembly Accession	Organism Name	 Strain
