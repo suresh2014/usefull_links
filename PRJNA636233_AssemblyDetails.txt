@@ -1,4 +1,5 @@
 # PRJNA636233 Assembly Details
+Genomes from Animals and animal handlers 
 # Assembly	Level	WGS	Chrs	BioSample	Strain	Taxonomy
 GCA_035788175.1	Contig	JALKVC000000000	undefined	SAMN27533442	S75	Achromobacter ruhlandii	
 GCA_035788155.1	Contig	JALKVB000000000	undefined	SAMN27533443	G44	Acinetobacter baumannii	
