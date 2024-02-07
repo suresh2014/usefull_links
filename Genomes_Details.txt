@@ -1,5 +1,5 @@
-# PRJNA636233 Assembly Details
-Genomes from Animals and animal handlers 
+#Genomes from Animals,clinical,food,enivronment and animal handlers 
+# PRJNA636233 Assembly Details(n=985)
 # Assembly	Level	WGS	Chrs	BioSample	Strain	Taxonomy
 GCA_035788175.1	Contig	JALKVC000000000	undefined	SAMN27533442	S75	Achromobacter ruhlandii	
 GCA_035788155.1	Contig	JALKVB000000000	undefined	SAMN27533443	G44	Acinetobacter baumannii	
@@ -986,3 +986,72 @@ GCA_035796935.1	Contig	JAMWUU000000000	undefined	SAMN29058018	Ngtc NS 3	Staphylo
 GCA_035796895.1	Contig	JAMWUW000000000	undefined	SAMN29058020	Ngtc RS 3	Staphylococcus xylosus	
 GCA_021189235.1	Contig	JAIBNI000000000	undefined	SAMN20525623	N24	Staphylococcus xylosus	
 GCA_021189335.1	Contig	JAIBNP000000000	undefined	SAMN20525616	N19	Staphylococcus xylosus	
+
+
+
+-------------------------------------------------------
+#Pasteurella multocida
+#Assembly Accession	Organism Name	 Strain
+GCF_027951105.1	Pasteurella multocida	NIVEDIPm9
+GCF_027951165.1	Pasteurella multocida	NIVEDIPm19
+GCF_027951095.1	Pasteurella multocida	NIVEDIPm3
+GCF_027951115.1	Pasteurella multocida	NIVEDIPm1
+GCF_027951325.1	Pasteurella multocida	NIVEDIPm10
+GCF_026108305.1	Pasteurella multocida subsp. multocida	NIVEDIPm36
+GCF_022869035.1	Pasteurella multocida subsp. multocida	NIVEDIPm32
+GCF_022869065.1	Pasteurella multocida subsp. multocida	NIVEDIPm34
+GCF_022869075.1	Pasteurella multocida subsp. multocida	NIVEDIPm35
+GCF_026108315.1	Pasteurella multocida subsp. multocida	NIVEDIPm17
+GCF_027951085.1	Pasteurella multocida subsp. multocida	NIVEDIPm20
+GCF_027951305.1	Pasteurella multocida subsp. multocida	NIVEDIPm31
+GCF_027951355.1	Pasteurella multocida subsp. multocida	NIVEDIPm22
+
+----------------------------------------------------
+#Clostridium chauvoei(n=1) #published
+GCA_023846215.1	GCF_023846215.1	Clostridium chauvoei 	NIVEDIBQ1
+
+---------------------------------------------------
+#Staphylococcus aureus(n=2) #phd
+GCA_002738565.1	Staphylococcus aureus smg07
+GCA_002738585.1	Staphylococcus aureus smg11
+
+---------------------------------------------------
+# PRJNA861098 Assembly Details #IVRI
+# Assembly	Level	WGS	BioSample	Strain	Taxonomy
+GCA_031432665.1	Contig	JANHBG000000000	SAMN29883421	CPS	Burkholderia cenocepacia	
+GCA_031630175.1	Contig	JANLBS000000000	SAMN30164225	BN1	Burkholderia cenocepacia	
+GCA_031630095.1	Contig	JANLBR000000000	SAMN30164226	EDVCC3	Burkholderia cenocepacia	
+GCA_031630155.1	Contig	JANLBT000000000	SAMN30164224	IVRIUSG	Burkholderia pseudomultivorans	
+GCA_031630195.1	Contig	JANLBU000000000	SAMN30164223	BO1	Burkholderia pseudomultivorans	
+
+-----------------------------------------------------
+#PBL-UOH Escherichia coli	(n=29)
+E02 JAVALI000000000 
+E05 JAVALH000000000 
+E16 JAVALG000000000 
+E22 JAVALF000000000 
+E23 JAVALE000000000 
+E29 JAVALD000000000 
+E39 JAVALC000000000 
+ES03 JAVALB000000000 
+ES06 JAVALA000000000 
+ES08 JAVAKZ000000000 
+ES11 JAVAKY000000000 
+ES22 JAVAKX000000000 
+ES25 JAVAKW000000000
+ES26 JAVAKV000000000 
+ES31 JAVAKU000000000 
+ES34 JAVAKT000000000 
+E51 JAVAKS000000000 
+E52 JAVAKR000000000 
+E53 JAVAKQ000000000 
+E54 JAVAKP000000000 
+E55 JAVAKO000000000 
+E19 JAVAKN000000000 
+E21 JAVAKM000000000
+E27 JAVAKL000000000 
+E32 JAVAKK000000000 
+E38 JAVAKJ000000000 
+E45 JAVAKI000000000 
+E48 JAVAKH000000000 
+ES29 JAVAKG000000000 
