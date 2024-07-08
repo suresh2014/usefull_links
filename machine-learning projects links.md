@@ -31,3 +31,5 @@ mlb1 [link](https://github.com/fabgenomics/ML_EHEC/blob/main/Machine_learning.ip
 ##githubs
 
 Git1 [link](https://github.com/zotroneneis/machine_learning_basics)
+
+Git2[link](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main)
