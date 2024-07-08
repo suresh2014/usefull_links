@@ -22,6 +22,8 @@ eda1 [link](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysi
 
 Ds1 [link](https://github.com/ISUgenomics/datascience-workbook)
 
+Ds2[link](https://github.com/donnemartin/data-science-ipython-notebooks)
+
 
 ml-biology models
 mlb1 [link](https://github.com/fabgenomics/ML_EHEC/blob/main/Machine_learning.ipynb)
