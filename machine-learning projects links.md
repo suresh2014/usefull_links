@@ -24,6 +24,8 @@ Ds1 [link](https://github.com/ISUgenomics/datascience-workbook)
 
 Ds2[link](https://github.com/donnemartin/data-science-ipython-notebooks)
 
+Ds3[link](https://github.com/datascienceid/machine-learning-resources)
+
 
 ml-biology models
 mlb1 [link](https://github.com/fabgenomics/ML_EHEC/blob/main/Machine_learning.ipynb)
