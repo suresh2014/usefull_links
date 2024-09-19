@@ -22,3 +22,7 @@
 20.Gene features..[link](https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer)
 
 21. networkx..[link](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience)
+
+22. [Codon transformer](https://adibvafa.github.io/CodonTransformer/GoogleColab)
+
+23. [G2P](https://g2p.broadinstitute.org/ | https://www.nature.com/articles/s41592-024-02409-0#Sec11) 
