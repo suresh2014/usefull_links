@@ -26,4 +26,6 @@
 
 22. [Codon transformer](https://adibvafa.github.io/CodonTransformer/GoogleColab)
 
-23. [G2P](https://g2p.broadinstitute.org/ | https://www.nature.com/articles/s41592-024-02409-0#Sec11) 
+23. [G2P](https://g2p.broadinstitute.org/ | https://www.nature.com/articles/s41592-024-02409-0#Sec11)
+
+24. [bioinfo links](https://actinobase.org/index.php?title=Bioinformatics)
