@@ -29,3 +29,22 @@
 23. [G2P](https://g2p.broadinstitute.org/ | https://www.nature.com/articles/s41592-024-02409-0#Sec11)
 
 24. [bioinfo links](https://actinobase.org/index.php?title=Bioinformatics)
+
+    
+
+ [Library of icons for Enhanced High Level Diagrams (EHLD) from Reactome](https://reactome.org/icon-lib)
+
+ Free Icons and Stock Photos For Everything [thenounproject.com](https://thenounproject.com/)
+
+ [Free, open source health icons (https://healthicons.org/) 
+
+ [Scidraw.io](https://scidraw.io/)
+
+ [Open-source illustrations for any idea you can imagine and create](https://undraw.co/)
+
+ [3000 free medical images](https://smart.servier.com/) 
+
+ Empower Your Online Diagramming [edrawmax.com](https://www.edrawmax.com/)
+
+
+
