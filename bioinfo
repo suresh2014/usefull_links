@@ -1,0 +1,117 @@
+1/ You’re merging gene data across tools. Suddenly nothing matches.
+ ENSEMBL, ENTREZ, TP53, P53...
+ Why so many gene IDs?
+
+2/
+ Gene ID chaos is real.
+ One gene, three names: ENSEMBL ID, ENTREZ ID, gene symbol.
+ Different formats, same biology—but not always.
+
+3/
+ ENTREZ ID is a stable integer from NCBI.
+ Example: TP53 = 7157
+
+4/
+ ENSEMBL ID is versioned and specific.
+ TP53 = ENSG00000141510
+ Used in Ensembl, Gencode, and many RNA-seq pipelines.
+
+5/
+ Then you have gene symbols.
+ TP53 is the official name.
+ But some still write P53 (not wrong—just outdated).
+
+6/
+ Here’s the problem:
+ One ENSEMBL ID can link to multiple symbols.
+ One symbol can map to many ENSEMBL IDs.
+ Now you’re stuck.
+
+7/
+ Why so messy?
+ Gene annotations evolve.
+ A new transcript is discovered.
+ A gene gets renamed.
+ Science moves, but your data might not.
+
+8/
+ How do you fix this?
+ Use biomaRt in R to map IDs reliably.
+ It pulls live data from Ensembl. Here’s a working example:
+
+9/
+library(biomaRt) 
+mart <- useMart("ensembl", dataset = "hsapiens_gene_ensembl") 
+getBM(attributes = c("ensembl_gene_id", "entrezgene_id", "external_gene_name"), 
+ filters = "ensembl_gene_id", 
+ values = "ENSG00000141510", 
+ mart = mart) 
+
+
+Returns TP53, 7157, and ENSEMBL ID.
+
+10/
+ Prefer the browser?
+ Use Ensembl BioMart: https://lnkd.in/ePht4G5G
+ Or NCBI Gene: https://lnkd.in/exX3KrrW
+ Paste your ID—get all the links.
+
+11/
+ Still getting P53 instead of TP53?
+ That’s a gene symbol alias.
+ Fix it with the HGNChelper package in R.
+
+12/
+install.packages("HGNChelper") 
+library(HGNChelper) 
+checkGeneSymbols("P53") 
+
+It corrects aliases and returns TP53.
+
+
+13/
+ Now let’s go across species.
+ You’re comparing human and mouse data.
+ Use babelgene to find orthologs.
+
+14/
+install.packages("babelgene") 
+library(babelgene) 
+orthologs("BRCA1", species = "mouse") 
+
+Returns mouse Brca1 with corresponding IDs.
+
+15/
+ You can also convert ENTREZ IDs with org.Hs.eg.db:
+library(org.Hs.eg.db) 
+mapIds(org.Hs.eg.db, keys = "1017", column = "SYMBOL", 
+ keytype = "ENTREZID", multiVals = "first") 
+
+Maps 1017 to CDK2.
+
+16/
+ Gene names are messy:
+Synonyms (P53 = TP53)
+
+Aliases
+
+Orthologs
+
+Outdated IDs
+They break pipelines if unchecked.
+
+17/
+ Key takeaways:
+Gene IDs are not interchangeable
+
+Use HGNChelper to fix aliases
+
+Use biomaRt and babelgene to convert reliably
+
+Always double-check across species
+
+I hope you've found this post helpful.
+
+Follow me for more.
+
+Subscribe to my FREE newsletter chatomics to learn bioinformatics https://lnkd.in/erw83Svn
