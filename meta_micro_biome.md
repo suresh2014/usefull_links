@@ -2,6 +2,8 @@ taxtriage[https://github.com/jhuapl-bio/taxtriage]
 
 https://github.com/wijerasa/bioinformatics-projects
 
+https://github.com/borenstein-lab/drug_microbiome
+
 https://github.com/mdelacuba/script-repo-microbiome-2025
 
 https://github.com/ErasmusMC-Bioinformatics/EMC-MetaMicrobes
